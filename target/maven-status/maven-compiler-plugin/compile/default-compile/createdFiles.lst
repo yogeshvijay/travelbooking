@@ -1,0 +1,14 @@
+uk/ac/newcastle/enterprisemiddleware/contact/ContactValidator.class
+uk/ac/newcastle/enterprisemiddleware/contact/ContactRestService.class
+uk/ac/newcastle/enterprisemiddleware/util/Resources.class
+uk/ac/newcastle/enterprisemiddleware/util/RestServiceExceptionMapper.class
+uk/ac/newcastle/enterprisemiddleware/util/RestServiceException.class
+uk/ac/newcastle/enterprisemiddleware/contact/ContactService.class
+uk/ac/newcastle/enterprisemiddleware/area/AreaService.class
+uk/ac/newcastle/enterprisemiddleware/Application.class
+uk/ac/newcastle/enterprisemiddleware/contact/ContactRepository.class
+uk/ac/newcastle/enterprisemiddleware/area/InvalidAreaCodeException.class
+uk/ac/newcastle/enterprisemiddleware/contact/Contact.class
+uk/ac/newcastle/enterprisemiddleware/util/ErrorMessage.class
+uk/ac/newcastle/enterprisemiddleware/contact/UniqueEmailException.class
+uk/ac/newcastle/enterprisemiddleware/area/Area.class
