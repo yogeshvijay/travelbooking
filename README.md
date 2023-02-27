@@ -1,7 +1,7 @@
 # Travel Booking Service
 
 
-Within the project there is an example REST service for creating and storing contacts which can be accessed via the Swagger UI endpoint (http://localhost:8080/q/swagger-ui). It is encouraged that students spend spend time reading through this code to gain a strong understanding of how the project works. Not only this, but students are also encouraged to follow a similar packaging structure.
+This project was part of a university project for creating and storing Bookings for travel through Flight, Taxi as well as Hotel Stays. It also allows GuestBooking as well as bookings by a Travel Agent
 
 The 3 basic Rest Services in the application are Customer, Taxi and Bookings. Each have a multitude of endpoints that include creation, deletion and get methods.
 
